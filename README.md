@@ -1,6 +1,7 @@
 # Jenkins slave wrapper
 
-[![Build Status](https://jenkins.capra.tv/buildStatus/icon?job=buildtools/jenkins-slave-wrapper/master)](https://jenkins.capra.tv/job/buildtools/job/jenkins-slave-wrapper/job/master/)
+THIS REPO IS MERGED INTO https://github.com/capralifecycle/jenkins-slave
+AND REMAINS UNMAINTAINED
 
 This repository contains the Docker image for Jenkins slave wrapper used with
 our Jenkins 2 setup.
